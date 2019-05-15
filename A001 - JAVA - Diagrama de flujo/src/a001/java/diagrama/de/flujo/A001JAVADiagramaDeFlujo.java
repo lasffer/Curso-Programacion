@@ -1,13 +1,16 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Programa: A001 - JAVA - Diagrama de flujo.
+ * 
+ * Descripción:
+ * Declaración e inicialización de una variable del tipo int, a la cual le
+ * sumaremos y restaremos distintas cantidades, por último, mostraremos el
+ * valor final que tiene.
  */
 package a001.java.diagrama.de.flujo;
 
 /**
  *
- * @author lasfferpro
+ * @author Caron, Lucas Javier
  */
 public class A001JAVADiagramaDeFlujo {
 

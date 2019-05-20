@@ -7,7 +7,7 @@ package debugger.en.netbeans.pkgwhile;
 
 /**
  *
- * @author lasfferpro
+ * @author Caron Lucas Javier
  */
 public class DebuggerEnNetbeansWhile {
 
